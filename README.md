@@ -58,3 +58,11 @@ SnakeGame.java
 ## Author
 Shaik Kareem  
 Computer Science Engineering Student
+
+## Project Interface
+
+### Game Start Screen
+![Game Start](snake_game1.png)
+
+### Gameplay Screen
+![Gameplay](snake_game2.png)
